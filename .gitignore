@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+*.csv
+*.xlsx
+*.user
+*.suo
+
+# Exportaciones locales de pruebas sin extensión
+libro_iva_pruebas
+pruebas_tiendas
+TIENDAS_PRUEBAS
